@@ -18,9 +18,8 @@ During my studies, I worked on various projects that helped me improve my proble
 ... (Add badges for other technologies you use)
 
 ## 🛠️ Skills
-
-- **Backend Development:** PHP, Laravel,XAMPP
-- **Frontend Development:** HTML , CSS JavaScript , React
+- **Frontend Development:** HTML , CSS , JavaScript , React
+- **Backend Development:** PHP, Laravel, XAMPP
 - **Database:** MySQL, MongoDB
 - **Version Control:** Git
 - **... (Add any other relevant skills)
