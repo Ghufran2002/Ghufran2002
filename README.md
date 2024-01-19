@@ -19,8 +19,8 @@ During my studies, I worked on various projects that helped me improve my proble
 
 ## 🛠️ Skills
 
-- **Backend Development:** PHP, Laravel
-- **Frontend Development:** JavaScript
+- **Backend Development:** PHP, Laravel,XAMPP
+- **Frontend Development:** HTML , CSS JavaScript , React
 - **Database:** MySQL, MongoDB
 - **Version Control:** Git
 - **... (Add any other relevant skills)
