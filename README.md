@@ -2,6 +2,9 @@
 
 
 I'm a passionate backend developer with expertise in PHP, JavaScript, and Laravel. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
+I am excited to begin my career as a Software Developer. I have learned programming languages like JavaScript, C++, HTML & CSS, and frameworks like ReactJS, Laravel.
+
+During my studies, I worked on various projects that helped me improve my problem-solving and teamwork skills. I am a quick learner and eager to work in a dynamic and innovative environment.
 
 ## 🚀 Technologies & Tools
 
