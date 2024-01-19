@@ -1,8 +1,7 @@
 ### Hi  👋, I'm Ghufran Alam
 
 
-I'm a passionate backend developer with expertise in PHP, JavaScript, and Laravel. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
-I am excited to begin my career as a Software Developer. I have learned programming languages like JavaScript, C++, HTML & CSS, and frameworks like ReactJS, Laravel.
+I'm a dedicated full-stack developer with a passion for creating efficient and user-friendly web applications. Explore my GitHub profile to find a collection of projects that showcase my skills in various technologies.
 
 During my studies, I worked on various projects that helped me improve my problem-solving and teamwork skills. I am a quick learner and eager to work in a dynamic and innovative environment.
 
