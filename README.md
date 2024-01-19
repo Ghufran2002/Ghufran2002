@@ -39,7 +39,7 @@ Brief description of the project.
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](link-to-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/md-ghufran-alam-812959206/)
 - [Twitter](link-to-twitter)
 - [Portfolio](link-to-portfolio)
 
