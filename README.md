@@ -1,85 +1,116 @@
-### Hi  👋, I'm Ghufran Alam
+# Hi 👋, I'm Md Ghufran Alam
 
+🎓 Final Year M.Tech (Cyber Forensics) Student
+💻 B.Tech in Information Technology (2024 Graduate)
+📍 Muzaffarpur, Bihar, India
 
-I'm a dedicated full-stack developer with a passion for creating efficient and user-friendly web applications. Explore my GitHub profile to find a collection of projects that showcase my skills in various technologies.
+---
 
-During my studies, I worked on various projects that helped me improve my problem-solving and teamwork skills. I am a quick learner and eager to work in a dynamic and innovative environment.
+## 🚀 About Me
 
-## 🚀 Technologies & Tools
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-003545?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-... (Add badges for other technologies you use)
+I am a passionate and dedicated technology enthusiast with a strong background in **Cyber Forensics, Web Development, and AI-based Security Systems**.
 
-## 🛠️ Skills
-- **Frontend Development:** HTML , CSS , JavaScript , React
-- **Backend Development:** PHP, Laravel, XAMPP
-- **Database:** MySQL, MongoDB
-- **Version Control:** Git
-- **... (Add any other relevant skills)
+During my academic journey, I have worked on real-world projects involving **IoT, Machine Learning, Digital Forensics, and Cloud Security**.
 
-## 📂 Featured Projects
+I am highly motivated to build secure and intelligent systems and contribute to the field of **Cybersecurity and Digital Investigation**.
 
-### [Project 1 Name](link-to-repository)
-Brief description of the project.
+---
 
-![Project 1 Image/Logo](link-to-image)
+## 🎓 Education
 
-### [Project 2 Name](link-to-repository)
-Brief description of the project.
+* 🎓 **M.Tech in Computer Science (Cyber Forensics)** *(Final Year)*
+* 🎓 **B.Tech in Information Technology** *(Completed in 2024)*
 
-![Project 2 Image/Logo](link-to-image)
+---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+* 🔬 **Internship at Forensic Science Laboratory (FSL), Srinagar**
 
-## 🤝 Connect with Me
+  * Gained practical exposure in **digital forensics and investigation techniques**
 
-- [LinkedIn](https://www.linkedin.com/in/md-ghufran-alam-812959206/)
-- [Twitter](link-to-twitter)
-- [Portfolio](link-to-portfolio)
+---
 
-## 🙏 Acknowledgements
+## 🛠️ Technical Skills
 
-Special thanks to [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for the GitHub Stats card.
+### 💻 Programming & Development
 
-Feel free to explore my repositories and let's connect! 😊
+* C, C++ (Data Structures & Problem Solving)
+* Python (Automation, Cyber Forensics)
+* HTML, CSS, JavaScript (Frontend Development)
+* PHP, Laravel (Backend Development)
 
+### 🧠 Core Domains
 
-<!--
-**Ghufran2002/Ghufran2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Cyber Forensics
+* Digital Forensics
+* Network Security
+* Cloud Security
 
-Here are some ideas to get you started:
+### 🗄️ Database
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center">A passionate frontend developer from India</h3>
+* MySQL
+* SQLite
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghufran2002&label=Profile%20views&color=0e75b6&style=flat" alt="ghufran2002" /> </p>
+### ⚙️ Tools & Technologies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghufran2002" alt="ghufran2002" /></a> </p>
+* Git & GitHub
+* XAMPP
+* IoT Systems
+* Machine Learning Basics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghufran2002&show_icons=true&locale=en&layout=compact" alt="ghufran2002" /></p>
+### 🔹 Library Management System
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghufran2002&show_icons=true&locale=en" alt="ghufran2002" /></p>
+* Developed a GUI-based system using Python and SQLite
+* Implemented book tracking, member management, and reporting features
+
+---
+
+### 🔹 Water Quality Monitoring System (IoT + ML)
+
+* Built an IoT-based system to monitor water parameters
+* Applied Machine Learning models for analysis and prediction
+
+---
+
+### 🔹 AI-Powered Image Forgery Detection System
+
+* Developed a system to detect manipulated images using AI techniques
+* Focused on digital image forensics
+
+---
+
+### 🔹 Automated AWS Forensic Artifact Collector *(Ongoing)*
+
+* Designed for cloud incident response
+* Collects forensic artifacts from AWS environment automatically
+
+---
+
+## 📄 Research Work
+
+* 📑 Working on research paper:
+  **"Quantum Network Forensics and Challenges"**
+
+---
+
+## 🎯 Career Objective
+
+To secure a challenging position in the field of **Cybersecurity / Digital Forensics**, where I can apply my technical skills and contribute to solving real-world security problems.
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: [ghufranalam855@gmail.com](mailto:ghufranalam855@gmail.com)
+* 🔗 GitHub: https://github.com/Ghufran2002
+
+---
+
+## ⭐ Quote
+
+*"Security is not a product, it's a process."*
